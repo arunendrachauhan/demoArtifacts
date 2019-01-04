@@ -1,0 +1,5 @@
+firstname,lastname,username,department,password,ou
+arun,chauhan,arun.chauhan,Sales,Password@123,"OU=Managers,DC=enterprise,DC=com"
+d,jay,d.jay,HR,Password@123,"OU=Managers,DC=enterprise,DC=com"
+h,robin,h.robin,RnD,Password@123,"OU=Managers,DC=enterprise,DC=com"
+billy,jack,billy.jack,Billing,Password@123,"OU=Managers,DC=enterprise,DC=com"
